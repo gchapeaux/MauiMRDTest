@@ -5,15 +5,15 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project1", "Project1\Project1.csproj", "{818DEB52-6032-474D-B3A3-1ABCC0E583FC}"
 	ProjectSection(ProjectDependencies) = postProject
-		{6CB8DE0D-2FEA-405B-BD06-9577C84A1949} = {6CB8DE0D-2FEA-405B-BD06-9577C84A1949}
+		{DA1EBC65-34DF-4F9E-91B2-188AA91728EF} = {DA1EBC65-34DF-4F9E-91B2-188AA91728EF}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2", "Project2\Project2.csproj", "{6CB8DE0D-2FEA-405B-BD06-9577C84A1949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project2", "Project2\Project2.csproj", "{6CB8DE0D-2FEA-405B-BD06-9577C84A1949}"
 	ProjectSection(ProjectDependencies) = postProject
 		{DA1EBC65-34DF-4F9E-91B2-188AA91728EF} = {DA1EBC65-34DF-4F9E-91B2-188AA91728EF}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyResources", "MyResources\MyResources.csproj", "{DA1EBC65-34DF-4F9E-91B2-188AA91728EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyResources", "MyResources\MyResources.csproj", "{DA1EBC65-34DF-4F9E-91B2-188AA91728EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
